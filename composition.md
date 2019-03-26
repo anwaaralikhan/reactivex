@@ -8,3 +8,4 @@ Create Observables | Create, Defer, Empty/Never/Throw, From, Interval, Just, Ran
 Transform Items |  Buffer, FlatMap, GroupBy, Map, Scan & Window
 Filtering Obserables | Debounce, Distinct, ElementAt, Filter, First, IgnoreElements, Last, Sample, Skip, SkipLast, Take and Take Last
 Error Handling | Catch and Retry
+Connectivity | Connect, Publish, RefCount and Replay
