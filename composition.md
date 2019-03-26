@@ -1,6 +1,6 @@
-# reactivex
+# Reactive - X
 
-## Create asynchronous sequences:
+## Composition Using Rx Operators
 
 Task | Available options
 ----- | -----------------
