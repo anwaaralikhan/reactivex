@@ -1,6 +1,6 @@
 # Reactive - X
 
-## Composition Using Rx Operators
+## Composition using Rx Operators
 
 Task | Available options
 ----- | -----------------
