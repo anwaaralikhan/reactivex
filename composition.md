@@ -1,4 +1,4 @@
-# Reactive - X
+# Reactive - X Guide
 
 ## Composition using Rx Operators
 
